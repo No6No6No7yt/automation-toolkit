@@ -1,0 +1,9 @@
+# Topic: Sample Company
+Q: Do you offer free estimates?
+A: Yes. Every quote is free and valid for 30 days.
+
+Q: How long does a project take?
+A: Typically 2-3 working days from kickoff.
+
+Q: What areas do you serve?
+A: The greater metro area and suburbs within 50 miles.

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+toolkit.zip
+taskloop-log.jsonl
+taskloop.lock

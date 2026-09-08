@@ -1,0 +1,7 @@
+Subject: Your order {order_id} shipped, {first_name}!
+Body:
+Hi {first_name},
+
+Your order {order_id} shipped today. Track it anytime from your account.
+
+- The Sample Shop
