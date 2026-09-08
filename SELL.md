@@ -37,3 +37,21 @@ directly (Fiverr allows external portfolio links on profile).
 - "Every action is previewed before it runs — nothing is deleted blindly"
 - "Full run logs on every scheduled job — you can audit everything"
 - "You own the tool — no subscription, no monthly fees"
+
+## 8. ScriptSentry — Roblox Studio plugin (separate product line)
+
+**Where it sells:** Roblox Creator Marketplace (plugins, priced in USD).
+**File:** `roblox-plugin/ScriptSentry.server.lua` — analysis-only code
+quality scanner (deprecated globals, executor-only API, silent pcall,
+giant scripts), dockable panel, click-to-jump. 12/12 rule tests pass in
+real Lua; full-file syntax validated.
+
+**Steps to list (needs Roblox account, ~15 min):**
+1. creator.roblox.com → Creation → Plugins
+2. Upload as .rbxm (right-click the script in Studio → Save as plugin)
+3. Category: Developer Tools · Price: $4.99 equivalent
+4. Description: paste from `roblox-plugin/README.md`
+
+**Why it can sell:** code-quality plugins are rare on the marketplace
+(vs. asset generators). Roblox devs have real money and real pain with
+legacy scripts full of deprecated globals.
